@@ -1,0 +1,11 @@
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+sqlite3-python==1.0.0
+reportlab==4.0.4
+openpyxl==3.10.10
+pandas==1.5.3
+matplotlib==3.7.1
+numpy==1.24.3
+python-dateutil==2.8.2
+pytz==2023.3
+Pillow==10.0.0
